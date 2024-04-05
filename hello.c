@@ -2,6 +2,6 @@
 
 int main()
 {
-	// wrote by thomas
-	printf("Hello, my name is Thomas");
+	// wrote by Tim
+	printf("Hello, my name is Tim");
 }
