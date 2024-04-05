@@ -1,0 +1,23 @@
+1. 
+Similarities:
+Concepts that are similar between Yelp and Microsoft are that they both have efficient code review processes and they both have respectful and constructive communication. 
+Both interviews say that they prefer to do small code reviews with small pull requests to keep iteration quick and efficient 
+Differences: 
+Feedback approach
+Documentation and Guidelines
+Items that should be present in a code review:
+Communication
+Reviewer selection and responsibilities
+Feedback and Review process
+Responses to Feedback
+
+
+2.
+https://codereview.stackexchange.com/questions/291401/function-that-returns-activation-function-as-well-as-its-derivative
+
+The comments consisting of this code review seems especially helpful to the original poster because of how concise, detailed, and clear they were. For instance, the reviewers commonly quoted the original code in code blocks when referring to aspects of it. Additionally, the reviews connected back to principles of programming such as DRY, proper parameters, flexibility of programs, and more in order to help the poster better understand how to improve their code, rather than just giving the answer outright.
+
+3. 
+https://codereview.stackexchange.com/questions/289445/java-code-to-delete-all-empty-folders-within-a-directory 
+
+The comments on this code are all telling the author different methods to do it instead of how the author initially implemented it. This isn’t really a great code review because they are all different solutions. It does point out some errors the author made, but each comment isn’t really super helpful to the author.
